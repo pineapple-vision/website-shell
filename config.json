@@ -6,35 +6,44 @@
     "██╔═══╝ ██║██║╚██╗██║██╔══╝  ██╔══██║██╔═══╝ ██╔═══╝ ██║     ██╔══╝  ",
     "██║     ██║██║ ╚████║███████╗██║  ██║██║     ██║     ███████╗███████╗",
     "╚═╝     ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝",
-    "                                                  ",               
-    "        ██╗   ██╗██╗███████╗██╗ ██████╗ ███╗   ██╗",                   
-    "        ██║   ██║██║██╔════╝██║██╔═══██╗████╗  ██║",                   
-    "        ██║   ██║██║███████╗██║██║   ██║██╔██╗ ██║",                   
-    "        ╚██╗ ██╔╝██║╚════██║██║██║   ██║██║╚██╗██║",                   
-    "         ╚████╔╝ ██║███████║██║╚██████╔╝██║ ╚████║",                   
-    "          ╚═══╝  ╚═╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝"
+    "            ██╗   ██╗██╗███████╗██╗ ██████╗ ███╗   ██╗",                   
+    "            ██║   ██║██║██╔════╝██║██╔═══██╗████╗  ██║",                   
+    "            ██║   ██║██║███████╗██║██║   ██║██╔██╗ ██║",                   
+    "            ╚██╗ ██╔╝██║╚════██║██║██║   ██║██║╚██╗██║",                   
+    "             ╚████╔╝ ██║███████║██║╚██████╔╝██║ ╚████║",                   
+    "              ╚═══╝  ╚═╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝"
   ],
   "title": "WebShell",
   "username": "visitor",
   "hostname": "webshell",
   "password": "050823",
-  "repoLink": "https://github.com/nasan016/webshell",
+  "repoLink": "https://github.com/pineapple-vision/website-shell",
   "social": {
-    "email": "your@email.com",
-    "github": "yourgithub",
-    "linkedin": "you"
+    "email": "vagrant.vision@outlook.com",
+    "github": "pineapple-vision",
+    "linkedin": "pineapple-vision"
   },
   "aboutGreeting": "Hi stranger. Welcome to WebShell.",
   "projects": [
     [
-      "GofeR",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
+      "Dashy",
+      "Doug's Dashboard (in progress)",
+      "https://dash.pineapple.vision/"
     ],
     [
-      "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
+      "Glance",
+      "System / Container Real-Time Monitor",
+      "https://glance.pineapple.vision/"
+    ],
+    [
+      "Memos",
+      "Save & Organize Memos",
+      "https://memos.pineapple.vision/"
+    ],
+    [
+      "Logseq",
+      "Open-Source Knowledge Base",
+      "https://logseq.pineapple.vision/"
     ]
   ],
   "colors": {
