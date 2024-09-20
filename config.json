@@ -13,22 +13,32 @@
     "             ╚████╔╝ ██║███████║██║╚██████╔╝██║ ╚████║",                   
     "              ╚═══╝  ╚═╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝"
   ],
-  "title": "WebShell",
+  "title": "WebShell @ Pineapple.Vision",
   "username": "visitor",
-  "hostname": "webshell",
-  "password": "050823",
+  "hostname": "pineapple.vision",
+  "password": "pineapple",
   "repoLink": "https://github.com/pineapple-vision/website-shell",
   "social": {
     "email": "vagrant.vision@outlook.com",
     "github": "pineapple-vision",
     "linkedin": "pineapple-vision"
   },
-  "aboutGreeting": "Hi stranger. Welcome to WebShell.",
+  "aboutGreeting": "Hello visitor. Welcome to PINEAPPLE.VISION in a webshell.",
   "projects": [
     [
+      "Website",
+      "Pineapple.Vision Website (in progress)",
+      "https://www.pineapple.vision/"
+    ],
+    [
       "Dashy",
-      "Doug's Dashboard (in progress)",
+      "Dashboard of Douglasness (in progress)",
       "https://dash.pineapple.vision/"
+    ],
+    [
+      "SerpBear",
+      "Search Engine Position Tracking App",
+      "https://glance.pineapple.vision/"
     ],
     [
       "Glance",
@@ -37,13 +47,18 @@
     ],
     [
       "Memos",
-      "Save & Organize Memos",
+      "Save & Organize Web Memos",
       "https://memos.pineapple.vision/"
     ],
     [
       "Logseq",
-      "Open-Source Knowledge Base",
+      "Knowledge Base",
       "https://logseq.pineapple.vision/"
+    ],
+    [
+      "sshwifty",
+      "Web SSH & Telnet",
+      "https://ssh.pineapple.vision/"
     ]
   ],
   "colors": {
